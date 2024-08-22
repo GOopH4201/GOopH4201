@@ -1,47 +1,67 @@
-## Hi there 👋
+### Привет! 👋
 
-My name is Vasily, I am a beginner Data Scientist from Russia
+### ✨ Обо мне за 30 секунд ✨ 
+* 🎓 Самарский Государственный Технический Университет "СамГТУ" филиал в городе Сызрани:
+  - Бакалавр: 09.03.01 - Информатика и вычислительная техника (Вычислительная техника и системы управления);
+  - 📕 Диплом с отличием 📕;
+* 🤖 Осваиваю Data Science с 2024
+* 📃 На досуге пишу простые скрипты для автоматизации ежедневных процессов
 
-## 🌱 I’m currently learning
-
-I'm currently learning how to process, visualize and clean data, I still have a lot to do, but I'm already pretty good at it
-
-## 🤔 What can I do
-
-I work with the Python programming language
-
-I work in VSCode Jupyter notebook, I can compose my own functions, classes and libraries
-
-Create tables, graphs and process them
-
-I can work with libraries such as:
-  * pygame
-  * pandas
-  * numpy
-  * matplotlib
-  * seaborn
-
-## 📫 How to reach me:
-
-You can write to me on [VK](https://vk.com/vbogomolov99), I’m there every day
-
-## ⚡ Fun fact:
-
-cows don't fly...
-
-...without a catapult
-
+### 💡 Основные компетенции 💡
+- Инструменты: Python
 <!--
-**GOopH4201/GOopH4201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Skills: 
+  - Hard skills:
+    * Mathematical statistics;
+    * Data Preprocessing and Data Analysis;
+    * Machine Learning and Deep Learning;
+    * Dashboard Design and Development;
+  - Soft skills:
+    * Learning;
+    * Communication skills;
+    * Team player;
+    * Management;
 -->
+
+### ⚡️ В настоящее время ⚡️
+- Работаю инженером программистом в СамГТУ;
+- Прохожу курс по Data Science на [Skillfactory](https://skillfactory.ru);
+
+### 🙌🏻 Свяжись со мной
+- [VK](https://vk.com/vbogomolov99 "Василий Богомолов")
+
+---
+
+### Hello! 👋
+
+### ✨ About me in 30 seconds ✨ 
+* 🎓 Samara State Technical University "SamGTU" branch in the city of Syzran:
+  - Bachelor: 09.03.01 - Informatics and computer technology (Computer technology and control systems);
+  - 📕 Diploma with honors 📕;
+* 🤖 I have been mastering Data Science since 2024
+* 📃 In my spare time I write simple scripts to automate daily processes
+
+### 💡 Core competencies 💡
+- Tools: Python
+<!--
+  - Skills:
+    - Hard skills:
+          * Mathematical statistics;
+          * Data Preprocessing and Data Analysis;
+          * Machine Learning and Deep Learning;
+          * CV and NLP;
+          * Relational Databases;
+          * Dashboard Design and Development;
+    - Soft skills:
+          * Learning;
+          * Communication skills;
+          * Team player;
+          * Management;
+-->
+
+### ⚡️ Currently ⚡️
+- I work as a software engineer at SamSTU;
+- Taking a course in Data Science at [Skillfactory](https://skillfactory.ru);
+
+### 🙌🏻 Contact me
+- [VK](https://vk.com/vbogomolov99 "Vasiliy Bogomolov")
