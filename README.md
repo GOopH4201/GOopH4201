@@ -9,6 +9,11 @@
 
 ### 💡 Основные компетенции 💡
 - Инструменты: Python
+  - Библиотеки:
+    * numpy
+    * matplotlib
+    * pandas
+    * seaborn
 <!--
 - Skills: 
   - Hard skills:
@@ -47,6 +52,11 @@
 
 ### 💡 Core competencies 💡
 - Tools: Python
+  - Libraries:
+    * numpy
+    * matplotlib
+    * pandas
+    * seaborn
 <!--
   - Skills:
     - Hard skills:
