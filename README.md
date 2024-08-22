@@ -6,6 +6,21 @@ My name is Vasily, I am a beginner Data Scientist from Russia
 
 I'm currently learning how to process, visualize and clean data, I still have a lot to do, but I'm already pretty good at it
 
+## 🤔 What can I do
+
+I work with the Python programming language
+
+I work in VSCode Jupyter notebook, I can compose my own functions, classes and libraries
+
+Create tables, graphs and process them
+
+I can work with libraries such as:
+  * pygame
+  * pandas
+  * numpy
+  * matplotlib
+  * seaborn
+
 ## 📫 How to reach me:
 
 You can write to me on [VK](https://vk.com/vbogomolov99), I’m there every day
