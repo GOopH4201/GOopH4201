@@ -37,7 +37,7 @@
 - Прохожу курс по Data Science на [Skillfactory](https://skillfactory.ru);
 
 ### 🙌🏻 Свяжись со мной
-- [VK](https://vk.com/vbogomolov99 "Василий Богомолов")
+- 🌌 [VK](https://vk.com/vbogomolov99 "Василий Богомолов") 🌌
 
 ---
 
@@ -82,4 +82,4 @@
 - Taking a course in Data Science at [Skillfactory](https://skillfactory.ru);
 
 ### 🙌🏻 Contact me
-- [VK](https://vk.com/vbogomolov99 "Vasiliy Bogomolov")
+- 🌌 [VK](https://vk.com/vbogomolov99 "Vasiliy Bogomolov") 🌌
