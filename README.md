@@ -23,6 +23,10 @@
     * Management;
 -->
 
+### 🔨 Проекты 🔧
+
+* Кликай [сюда](https://github.com/GOopH4201/data_science_projects) чтобы посмотреть мои проекты
+
 ### ⚡️ В настоящее время ⚡️
 - Работаю инженером программистом в СамГТУ;
 - Прохожу курс по Data Science на [Skillfactory](https://skillfactory.ru);
@@ -58,6 +62,10 @@
           * Team player;
           * Management;
 -->
+
+### 🔨 Projects 🔧
+
+* Click [here](https://github.com/GOopH4201/data_science_projects) to see my projects
 
 ### ⚡️ Currently ⚡️
 - I work as a software engineer at SamSTU;
