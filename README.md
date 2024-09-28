@@ -14,6 +14,9 @@
     * matplotlib
     * pandas
     * seaborn
+    * requests
+    * BeautifulSoap
+    * schedule
 <!--
 - Skills: 
   - Hard skills:
@@ -57,6 +60,9 @@
     * matplotlib
     * pandas
     * seaborn
+    * requests
+    * BeautifulSoap
+    * schedule
 <!--
   - Skills:
     - Hard skills:
