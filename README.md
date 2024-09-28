@@ -8,15 +8,21 @@
 * 📃 На досуге пишу простые скрипты для автоматизации ежедневных процессов
 
 ### 💡 Основные компетенции 💡
+- Jupyter Notebook
 - Инструменты: Python
   - Библиотеки:
-    * numpy
-    * matplotlib
-    * pandas
-    * seaborn
-    * requests
-    * BeautifulSoap
-    * schedule
+    - Работа с данными: 
+      * numpy
+      * pandas
+    - Визуализация данных:
+      * matplotlib
+      * seaborn
+      * plotly
+    - Работа с веб-запросами:
+      * requests
+      * BeautifulSoap
+    - Автоматизация процессов:
+      * schedule
 <!--
 - Skills: 
   - Hard skills:
@@ -54,15 +60,21 @@
 * 📃 In my spare time I write simple scripts to automate daily processes
 
 ### 💡 Core competencies 💡
+- Jupyter Notebook
 - Tools: Python
   - Libraries:
-    * numpy
-    * matplotlib
-    * pandas
-    * seaborn
-    * requests
-    * BeautifulSoap
-    * schedule
+    - Working with data: 
+      * numpy
+      * pandas
+    - Data visualization:
+      * matplotlib
+      * seaborn
+      * plotly
+    - Working with Web Requests:
+      * requests
+      * BeautifulSoap
+    - Process automation:
+      * schedule
 <!--
   - Skills:
     - Hard skills:
