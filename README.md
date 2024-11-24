@@ -9,6 +9,8 @@
 
 ### 💡 Основные компетенции 💡
 - Jupyter Notebook
+- SQL
+- PostgreSQL
 - Инструменты: Python
   - Библиотеки:
     - Работа с данными: 
@@ -21,6 +23,8 @@
     - Работа с веб-запросами:
       * requests
       * BeautifulSoap
+    - Работа с SQL:
+      * psycopg2
     - Автоматизация процессов:
       * schedule
 <!--
@@ -61,6 +65,8 @@
 
 ### 💡 Core competencies 💡
 - Jupyter Notebook
+- SQL
+- PostgreSQL
 - Tools: Python
   - Libraries:
     - Working with data: 
@@ -73,6 +79,8 @@
     - Working with Web Requests:
       * requests
       * BeautifulSoap
+    - Working with SQL:
+      * psycopg2
     - Process automation:
       * schedule
 <!--
